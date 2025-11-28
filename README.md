@@ -49,8 +49,8 @@ Or manually:
 ```
 
 ```bash
-!git clone https://github.com/AnnNaserNabil/Bangla-HateSpeech-Distillation
-%cd Bangla-HateSpeech-Distillation
+!git clone https://github.com/AnnNaserNabil/HateSpeechKD
+%cd HateSpeechKD
 !pip install -q torch transformers scikit-learn pandas numpy tqdm mlflow
 ```
 
